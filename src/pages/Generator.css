@@ -1,0 +1,106 @@
+#gen * {
+    animation-name: show;
+    animation-duration: 1s;
+}
+
+@keyframes show {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+    
+}
+
+#gen ul {
+    margin: 2rem auto;
+}
+
+#gen .rcp-root label {
+    display: none;
+    padding: 0;
+    margin: 0;
+}
+
+#gen .rcp-root input {
+    margin-bottom: 0;
+}
+
+#gen section:not(.rcp *):not(#preview) {
+    padding-top: 4rem !important;
+}
+
+#gen .colorfields h3{
+    text-align: center;
+}
+
+#gen .colorfields hgroup p {
+    margin: auto 1rem;
+}
+
+#gen .rcp-body {
+    padding-bottom: 10px;
+}
+
+#gen .label-cb {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#gen .label-cb * {
+    margin: 0;
+}
+
+#preview {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: min-content;
+    width: min-content;
+    padding: 0.5rem 2rem;
+
+    z-index: 12;
+    position: fixed;
+    top: -4rem;
+    right: 50%;
+    transform: translateX(50%);
+    opacity: 0;
+    transition: 1s;
+}
+
+#preview p {
+    font-family: 'Minecraft';
+    white-space: pre;
+    font-size: 2rem;
+    margin-bottom: 0;
+    color: var(--color);
+	text-shadow: 0.2rem 0.2rem color-mix(in srgb, black 75%, var(--color));
+}
+
+#preview p.primary {
+    --color: var(--p-color);
+}
+
+#preview p.secondary {
+    --color: var(--s-color);
+}
+
+#splash.dimn ~ main main #preview {
+    top: 0;
+    opacity: 1 !important;
+}
+
+.finalBTN {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.finalBTN button {
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,42 @@
+@font-face {
+	font-family: Minecraft;
+	src: url("../css/minecraft-font/MinecraftRegular-Bmg3.otf");
+}
+
+@font-face {
+	font-family: Minecraft;
+	src: url("../css/minecraft-font/MinecraftBold-nMK1.otf");
+	font-weight: bold;
+}
+
+
+#app-body {
+	margin-top: 20rem;
+	min-height: 60svh;
+}
+
+hgroup p:first-of-type {
+	color: var(--pico-primary-background);
+}
+
+main section.genbutn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 4rem;
+	column-gap: 4rem;
+	p {
+		margin-bottom: 0;
+	}
+}
+
+footer {
+	padding: 4rem;
+	margin-top: 4rem;
+	text-align: center;
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.432), rgba(0, 0, 0, 0));
+}
+
+footer img {
+	height: 4rem;
+}

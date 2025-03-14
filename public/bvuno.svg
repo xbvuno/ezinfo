@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="18.999874mm"
+   height="7.0000939mm"
+   viewBox="0 0 18.999874 7.0000939"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-30.000237"
+       originy="-94.999886"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.000236,-94.999886)">
+    <path
+       d="m 30.000236,95.999825 v 4.000275 h 2.999817 v -3.000336 h -1.999878 v -0.999939 z m 0.999939,2.000395 h 0.999939 v 0.999939 h -0.999939 z"
+       style="fill:#ffffff;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path10" />
+    <path
+       d="m 33.999992,94.999886 v 5.000214 h 1.999878 v -0.999941 h -0.999939 v -3.000334 h 13.00024 v -0.999939 z m 1.999878,4.000273 h 0.999939 V 96.999764 H 35.99987 Z"
+       style="fill:#ffffff;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path9" />
+    <path
+       d="m 37.999748,96.999764 v 3.000336 h 3.000333 v -3.000336 h -0.999939 v 2.000395 h -0.999939 v -2.000395 z"
+       style="fill:#ffffff;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path8" />
+    <path
+       d="m 42.00002,96.999764 v 2.000395 0.999941 h 0.999939 v -1.99988 h 0.999939 v -1.000456 z m 1.999878,1.000456 v 1.99988 0.99994 H 31.000175 v 0.99994 h 13.999662 v -1.99988 -1.99988 z"
+       style="fill:#ffffff;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path7" />
+    <path
+       d="m 45.999776,96.999764 v 3.000336 h 3.000334 v -1.99988 -1.000456 z m 1.000456,1.000456 h 0.999939 v 0.999939 h -0.999939 z"
+       style="fill:#ffffff;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path6" />
+  </g>
+</svg>
